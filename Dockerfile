@@ -1,4 +1,4 @@
-FROM jenkins/inbound-agent:4.10-2
+FROM jenkins/inbound-agent:4.6-1
 
 USER root
 
